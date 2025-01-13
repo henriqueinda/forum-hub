@@ -59,7 +59,9 @@
 
 # FUNCIONALIDADES E DEMONSTRAÇÃO DA APLICAÇÃO
 
-VÍDEOS
+https://github.com/user-attachments/assets/28c8f30b-bf69-462b-8df6-dae660a4b6ff
+
+https://github.com/user-attachments/assets/8e1edf42-4c2b-4d31-9b34-f7fb7ce28b20
 
 # TECNOLOGIAS UTILIZADAS
 
