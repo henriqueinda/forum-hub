@@ -23,7 +23,7 @@
 
 # DESCRIÇÃO DO PROJETO
  
-📄 Este projeto se trata de uma "API REST" criada em JAVA (Spring Boot), que cria um banco de dados local ('Postgres'), gerencia esse banco (com auxílio do framework: 'Hibernate') e faz todo o CRUDD ('Create, Read, Update, Delete and Detail') através de solicitações Web do tipo HTTP.
+📄 Este projeto se trata de uma "API REST" desenvolvida em JAVA (Spring Boot), que cria um banco de dados local ('Postgres'), gerencia esse banco (com auxílio do framework: 'Hibernate') e faz todo o CRUDD ('Create, Read, Update, Delete and Detail') através de solicitações Web do tipo HTTP.
 
 📄 É válido pontuar que a prioridade desse projeto é arquitetar um CRUDD em uma API REST, mas que seja priorizado um ambiente seguro, protegido de ataques. Para isso, no projeto, foi utilizada a dependência 'Spring Security' alinhada ao uso de 'Tokens tipo JWT'.
 
